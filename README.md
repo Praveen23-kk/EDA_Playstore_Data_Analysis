@@ -76,16 +76,20 @@ The analysis focuses on identifying actionable insights that can help developers
 ![Dataset Overview](https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv)
 
 ## Top 10 App Category Distribution
-![Category Distribution](Images/output_4.png)
+
+<img src="EDA Playstore data/Images/output_4.png" width="500"/>
 
 ## Rating Distribution in Pie Chat
-![Rating Distribution](./Images/output_3.png)
+
+<img src="EDA Playstore data/Images/output_3.png" width="500"/>
 
 ## Univariate Analysis of Categorical Features
-![Categorical Features](./Images/output_2.png)
+
+<img src="EDA Playstore data/Images/output_2.png" width="500"/>
 
 ## Univariate Anlaysis of Numerical Features
-![Numerical Features](./Images/output.png)
+
+<img src="EDA Playstore data/Images/output.png" width="500"/>
 
 > 📌 Place your images inside a `Images/` folder in the repository.
 
