@@ -45,6 +45,7 @@ The analysis focuses on identifying actionable insights that can help developers
 - NumPy
 - Matplotlib
 - Seaborn
+- warnings
 
 ---
 
@@ -72,18 +73,21 @@ The analysis focuses on identifying actionable insights that can help developers
 ## 📸 Screenshots
 
 ### Dataset Overview
-![Dataset Overview]()
+![Dataset Overview](https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv)
 
 ### Top 10 App Category Distribution
-![Category Distribution](EDA Playstore data/Images/output_4.png)
+![Category Distribution](Images/output_4.png)
 
-### Rating Distribution
-![Rating Distribution]()
+### Rating Distribution in Pie Chat
+![Rating Distribution](Images/output_3.png)
 
-### Free vs Paid Apps
-![Free vs Paid](screenshots/free_vs_paid.png)
+### Univariate Analysis of Categorical Features
+![Categorical Features](Images/output_2.png)
 
-> 📌 Place your images inside a `screenshots/` folder in the repository.
+### Univariate Anlaysis of Numerical Features
+![Numerical Features](Images/output.png)
+
+> 📌 Place your images inside a `Images/` folder in the repository.
 
 ---
 
