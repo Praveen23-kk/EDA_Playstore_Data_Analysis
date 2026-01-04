@@ -73,7 +73,8 @@ The analysis focuses on identifying actionable insights that can help developers
 ## 📸 Screenshots
 
 ## Dataset Overview
-![Dataset Overview](https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv)
+Data Source link: https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore
+
 
 ## Top 10 App Category Distribution
 
