@@ -76,7 +76,7 @@ The analysis focuses on identifying actionable insights that can help developers
 ![Dataset Overview](https://raw.githubusercontent.com/krishnaik06/playstore-Dataset/main/googleplaystore.csv)
 
 ### Top 10 App Category Distribution
-![Category Distribution](./Images/output_4.png)
+![Category Distribution](EDA Playstore data/Images/output_4.png)
 
 ### Rating Distribution in Pie Chat
 ![Rating Distribution](./Images/output_3.png)
